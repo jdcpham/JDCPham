@@ -2,6 +2,14 @@
 
 I'm John and I live in a city called London. My parents are originally from Vietnam but emigrated here in search of a better future for myself and my sister. I recently graduated from King's College London with a degree in Computer Science and am currently working in the banking and finance industry. 
 
+- 💼 I've just started my new role at HSBC and am undergoing an intensive technical training program until the end of the year!
+- 🛩 I've always wanted to become a pilot. My biggest wish is to take flying lessons and get my Private Pilot's License.
+- 🎓 I graduated from King's College London with a First Class Honours degree in Computer Science. For my final-year project, I researched and implemented software to visualise and analyse congestion algorithms on the internet.
+- 🎹 I started playing the piano from the age of 8 and studied at the Royal Academy of Music for 4 years. I've now achieved my grade 8 certification!
+- 📫 You can reach me on [Facebook](facebook.com/jdcpham), [Twitter](twitter.com/jdcpham), [Instagram](instagram.com/jdcpham) or via e-mail at jdcpham@outlook.com.
+- 💡 I am a freelance production technician and lighting designer. My previous clients include Forest School, Royal Academy of Music, Underbelly, Hackney Empire, Spectra Ensemble, Fat Rascal Theatre and more...
+- 🌱 I'm currently learning how to create Java Spring Boot.
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
