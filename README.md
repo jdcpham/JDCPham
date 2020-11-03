@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm John and I live in a city called London. My parents are originally from Vietnam but emigrated here in search of a better future for myself and my sister. I recently graduated from King's College London with a degree in Computer Science and am currently working in the banking and finance industry. 
+I'm John and I was born and raised in London. My parents are originally from Vietnam but emigrated here in search of a better future for myself and my sister. I recently graduated from King's College London with a degree in Computer Science and am currently working in the banking and finance industry. 
 
 - 💼 I've just started my new role at HSBC and am undergoing an intensive technical training program until the end of the year!
 - 🛩 I've always wanted to become a pilot. My biggest wish is to take flying lessons and get my Private Pilot's License.
