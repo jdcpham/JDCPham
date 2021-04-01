@@ -18,7 +18,7 @@ gimme a strongly-typed language any day.
 - python 💔
 - html/css 🥱
 
-## hmm... but have you actually built anything?
+## hmm... but have i actually built anything?
 - majyk: mobile-app providing financial incentives for socialising (won gradhack 2020 🥇)
 - zeroton: a social network designed to help you take actions from books.
 - claro widget: a chrome extension built for claro money to inform you how much you are spending in terms of salary.
