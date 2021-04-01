@@ -44,5 +44,5 @@ gimme a strongly-typed language any day.
 ## talk to me, i have no friends 🥺
 - friend me on [facebook](https://facebook.com/jdcpham)
 - follow me on [instagram](https://instagram.com/jdcpham) (i will like all your photos)
-- connect with me on [instagram](https://linkedin.com/in/jdcpham)
+- connect with me on [linkedin](https://linkedin.com/in/jdcpham)
 - email me at hello@johnpham.co.uk
