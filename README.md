@@ -17,6 +17,7 @@ gimme a strongly-typed language any day.
 - react 💗
 - python 💔
 - html/css 🥱
+- java 😕
 
 ## hmm... but have i actually built anything?
 - majyk: mobile-app providing financial incentives for socialising (won gradhack 2020 🥇)
