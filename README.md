@@ -6,7 +6,7 @@ i'm john, it's nice to meet you. yellow fruit gums are the worst 🤮
 - 📚 &nbsp; building [zeroton](https://zeroton.io), a social network designed to help you take actions from books.
 - 🛍 &nbsp; freelancing as a full stack developer at [claro money](https://claromoney.co.uk), a UK-based fintech start-up.
 - 👨🏻‍🏫 &nbsp; trying to teach technology and programming to beginners at [king's college london](https://kcl.ac.uk).
-- 💡 &nbsp; production technician and lighting designed for various theatrical productions, including [underbelly](https://www.underbelly.co.uk/).
+- 💡 &nbsp; production technician and lighting designer for various theatrical productions, including [underbelly](https://www.underbelly.co.uk/).
 - ☁️ &nbsp; pursuing the [google cloud associate](https://google.com) certification by end of july 2021.
 - 🎹 &nbsp; playing whatever comes on the radio on the piano, most recently, [IU's](https://iu.com) new album lilac.
 
