@@ -22,6 +22,7 @@ gimme a strongly-typed language any day.
 ## hmm... but have i actually built anything?
 - majyk: mobile-app providing financial incentives for socialising (won gradhack 2020 🥇)
 - zeroton: a social network designed to help you take actions from books.
+- tcp congestion: built a interactive animation to demonstrate congestion in tcp networks (1:1 dissertation)
 - claro widget: a chrome extension built for claro money to inform you how much you are spending in terms of salary.
 - travel fx: a revamp of a foreign exchange platform, including migration from php to _better_ technologies.
 - deaton theatre bookings: ticket booking system for the deaton theatre in north-east london.
