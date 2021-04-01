@@ -1,5 +1,5 @@
 # hello there 👋
-i'm John, it's nice to meet you. yellow fruit gums are the worst 🤮
+i'm john, it's nice to meet you. yellow fruit gums are the worst 🤮
 
 ## how i'm keeping busy
 - 🏦 &nbsp; working as a technology business analyst at [hsbc](https://hsbc.com) in the UK chief operating office.
@@ -27,6 +27,14 @@ gimme a strongly-typed language any day.
 - ma700 pec: bootloader software for the propeller engine controller in the ma700 aircraft.
 - compiler: a compiler for a custom language built with scala.
 
+## tabs or spaces
+- tabs
+
+## curly brackets on the same line or next line
+- same line
+
+## pet peeves
+- snake_case 😡
 
 ## how to win me over
 - 🐶 &nbsp; dogs
