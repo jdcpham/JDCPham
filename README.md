@@ -9,6 +9,7 @@ i'm john, it's nice to meet you. yellow fruit gums are the worst 🤮
 - 💡 &nbsp; production technician and lighting designer for various theatrical productions, including [underbelly](https://www.underbelly.co.uk/).
 - ☁️ &nbsp; pursuing the [google cloud associate](https://google.com) certification by end of july 2021.
 - 🎹 &nbsp; playing whatever comes on the radio on the piano, most recently, [IU's](https://iu.com) new album lilac.
+- 💼 &nbsp; member of the vietpro uk committee helping vietnamese students and professionals in the uk.
 
 ## what i use to build stuff
 gimme a strongly-typed language any day.
