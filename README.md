@@ -1,4 +1,4 @@
-# hello there
+# hello there!
 i'm john, it's nice to meet you. yellow fruit gums are the worst 🤮
 
 ## how i'm keeping busy
