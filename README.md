@@ -16,9 +16,9 @@ I'm John. It's nice to meet you.
 - React (Intermediate)
 - Angular (Intermediate)
 
-## hmm... but have i actually built anything?
-- majyk: mobile-app providing financial incentives for socialising (won gradhack 2020 🥇)
-- zeroton: a social network designed to help you take actions from books.
+## Projects
+- MAJYK: Events management and listing app with a peer-to-peer financial rewards system. (Winner of GradHack 2020, see presentation [here.](http://google.com)
+- Zeroton: A social network designed to help you take actions from books.
 - tcp congestion: built a interactive animation to demonstrate congestion in tcp networks (1:1 dissertation)
 - claro widget: a chrome extension built for claro money to inform you how much you are spending in terms of salary.
 - travel fx: a revamp of a foreign exchange platform, including migration from php to _better_ technologies.
