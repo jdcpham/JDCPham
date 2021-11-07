@@ -1,7 +1,8 @@
-# hello there
-i'm john, it's nice to meet you. yellow fruit gums are the worst 🤮
+# Hello there 👋
+I'm John. It's nice to meet you.
 
-## how i'm keeping busy
+## Summary
+- 👨🏻‍💻 &nbsp; Currently a Solutions Architect leading the technical end-to-end build-out of [Claro Money](https://claromoney.co.uk).
 - 🏦 &nbsp; working as a technology business analyst at [hsbc](https://hsbc.com) in the UK chief operating office.
 - 📚 &nbsp; building [zeroton](https://zeroton.io), a social network designed to help you take actions from books.
 - 🛍 &nbsp; freelancing as a full stack developer at [claro money](https://claromoney.co.uk), a UK-based fintech start-up.
