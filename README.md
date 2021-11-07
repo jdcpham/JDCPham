@@ -3,23 +3,18 @@ I'm John. It's nice to meet you.
 
 ## Summary
 - 👨🏻‍💻 &nbsp; Currently a Solutions Architect leading the technical end-to-end build-out of [Claro Money](https://claromoney.co.uk).
-- 🏦 &nbsp; working as a technology business analyst at [hsbc](https://hsbc.com) in the UK chief operating office.
-- 📚 &nbsp; building [zeroton](https://zeroton.io), a social network designed to help you take actions from books.
-- 🛍 &nbsp; freelancing as a full stack developer at [claro money](https://claromoney.co.uk), a UK-based fintech start-up.
-- 👨🏻‍🏫 &nbsp; trying to teach technology and programming to beginners at [king's college london](https://kcl.ac.uk).
-- 💡 &nbsp; production technician and lighting designer for various theatrical productions, including [underbelly](https://www.underbelly.co.uk/).
-- ☁️ &nbsp; pursuing the [google cloud associate](https://google.com) certification by end of july 2021.
-- 🎹 &nbsp; playing whatever comes on the radio on the piano, most recently, [IU's](https://iu.com) new album lilac.
-- 💼 &nbsp; member of the vietpro uk committee helping vietnamese students and professionals in the uk.
+- 🏦 &nbsp; Previously positioned in the UK Chief Operating Office of [HSBC](https://hsbc.com) as a Technology Business Analyst.
+- 📚 &nbsp; Building [Zeroton](https://zeroton.io). A social network designed to help you take actions from books.
+- 💡 &nbsp; Production Technician and Lighting Designer for various theatrical productions, including [Underbelly](https://www.underbelly.co.uk/).
+- 💼 &nbsp; Member of VietPro. A careers and professional network aimed for Vietnamese students based in the UK.
 
-## what i use to build stuff
-gimme a strongly-typed language any day.
-- typescript 💕
-- angular 💕
-- react 💗
-- python 💔
-- html/css 🥱
-- java 😕
+## Skills
+### Web Development
+- HTML (Expert)
+- CSS (Expert)
+- JavaScript (Expert)
+- React (Intermediate)
+- Angular (Intermediate)
 
 ## hmm... but have i actually built anything?
 - majyk: mobile-app providing financial incentives for socialising (won gradhack 2020 🥇)
