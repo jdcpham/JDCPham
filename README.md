@@ -15,7 +15,7 @@ Outside of my day job, I freelance as a lighting designer for small to medium-si
 
 ## Summary
 - 👨🏻‍💻 &nbsp; Led the technical end-to-end implementation of [Claro Money](https://claromoney.co.uk), reaching the finals of the [British Bank Awards 2022](britishbankawards.co.uk).
-- 👷🏻‍♂️ &nbsp; A Solutions Architect with technical expertise in designing, architecting and building scalable, reliable and cost-effective infrastructure.
+- 👷🏻‍♂️ &nbsp; A Solutions Architect with technical expertise in designing and building scalable, reliable and cost-effective infrastructure.
 - 🏦 &nbsp; Previously positioned in the UK Chief Operating Office of [HSBC](https://hsbc.com) as a Technology Business Manager.
 - 📚 &nbsp; Building [Zeroton](https://zeroton.io). A social network designed to help you take actions from books.
 - 💡 &nbsp; Production Technician and Lighting Designer for various theatrical productions, including [Underbelly](https://www.underbelly.co.uk/).
