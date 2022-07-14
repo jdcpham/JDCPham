@@ -20,3 +20,9 @@ Outside of my day job, I freelance as a lighting designer for small to medium-si
 - 📚 &nbsp; Building [Zeroton](https://zeroton.io). A social network designed to help you take actions from books.
 - 💡 &nbsp; Production Technician and Lighting Designer for various theatrical productions, including [Underbelly](https://www.underbelly.co.uk/).
 - 💼 &nbsp; Member of VietPro. A careers and professional network aimed for Vietnamese students based in the UK.
+
+## Get In Touch
+| Platform      | Details |
+| ----------- | ----------- |
+| Facebook     | [facebook.com/jdcpham](https://facebook.com/jdcpham)      |
+| Twitter   | [twitter.com/jdcpham](https://twitter.com/jdcpham)        |
