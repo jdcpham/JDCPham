@@ -22,7 +22,5 @@ Outside of my day job, I freelance as a lighting designer for small to medium-si
 - 💼 &nbsp; Member of VietPro. A careers and professional network aimed for Vietnamese students based in the UK.
 
 ## Get In Touch
-| Platform      | Details |
-| ----------- | ----------- |
-| Facebook     | [facebook.com/jdcpham](https://facebook.com/jdcpham)      |
-| Twitter   | [twitter.com/jdcpham](https://twitter.com/jdcpham)        |
+- 📧 &nbsp; Drop me an email at [hello@johnpham.co.uk](mailto:hello@johnpham.co.uk)
+- 🌐 &nbsp; Visit [johnpham.co.uk](https://johnpham.co.uk)
