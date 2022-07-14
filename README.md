@@ -24,4 +24,4 @@ Outside of my day job, I freelance as a lighting designer for small to medium-si
 ## Get In Touch
 - 📧 &nbsp; Drop me an email at [hello@johnpham.co.uk](mailto:hello@johnpham.co.uk)
 - 🌐 &nbsp; Visit [johnpham.co.uk](https://johnpham.co.uk)
-- 📞 &nbsp; Give me a call at [+44 (0) 7546 605 701](tel:+447546605701)
+- 📞 &nbsp; Give me a call at [+44 (0) 7546 605 701](tel:447546605701)
