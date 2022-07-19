@@ -11,7 +11,7 @@ During my studies, I spent one year on placement at GE Aviation, where I honed m
 
 I graduated from King's College London with a First Class Honours degree in Computer Science, and won the King's Leadership Award of 2017/18. I wrote my dissertation on the topic of 'Congestion in TCP Networks', identifying and implementing complex yet efficient algorithms for alleviating traffic in computer networks.
 
-Outside of my day job, I freelance as a lighting designer for small to medium-sized events such as dance shows, musicals and operas, with my previous clients including Underbelly Festival, Hackney Empire, Royal Academy of Music, Fat Rascal Theatre and many more. I'm also a committee member of VietPro – Europe's largest network for Vietnamese students and professionals. Each year, we run our flagship careers event titled 'Prospect', with the help of PwC. I'm also a pianist, classically trained at the Royal Academy of Music.
+Outside of my day job, I freelance as a lighting designer for small to medium-sized events such as dance shows, musicals and operas, with my previous clients including Underbelly Festival, Hackney Empire, Royal Academy of Music, Fat Rascal Theatre and many more. I'm also a committee member of VietPro – Europe's largest network for Vietnamese students and professionals. Each year, we run our flagship careers event titled 'Prospect', with the help of PwC. I'm also a pianist, classically trained at the Royal Academy of Music
 
 ## Summary
 - 👨🏻‍💻 &nbsp; Led the technical end-to-end implementation of [Claro Money](https://claromoney.co.uk), reaching the finals of the [British Bank Awards 2022](britishbankawards.co.uk).
