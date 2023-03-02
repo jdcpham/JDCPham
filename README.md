@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm John, a Solutions Architect, currently leading the technical end-to-end implementation of Claro – a financial planning and investments platform. Claro is currently less than a year old, but has been recognised as a disrupter in the industry, being nominated for a British Bank Award in 2022.
+I'm John. A Solutions Architect, currently leading the technical end-to-end implementation of Claro – a financial planning and investments platform. Claro is currently less than a year old, but has been recognised as a disrupter in the industry, being nominated for a British Bank Award in 2022.
 
 I'm a certified AWS cloud architect, with 3+ years of hands-on industry experience designing and architecting cloud infrastructure. I am a strong advocate of serverless architectures, utilising its power to build de-coupled and resilient software components. 
 
